@@ -12,7 +12,7 @@ int main()
 		<< "And make the test pass." << endl
 		<< "We start right here:" << endl;
 
-	a;slfdj_gobldygookisnotc++
+	//a;slfdj_gobldygookisnotc++
 
 	cout << "That was easy, wasn't it?" << endl
 		<< "Go on while you walk the path to enlightment ..." << endl;
