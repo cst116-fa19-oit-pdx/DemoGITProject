@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
 	// Koans are an interesting way to learn a programming language.  
+
 	cout << "C++ is not too hard to learn!" << endl
 		<< "Then go to the point of the first error." << endl
 		<< "And make the test pass." << endl
